@@ -31,10 +31,21 @@ A **real-time chat messenger app** built with Flutter, Firebase, and modern desi
 
 ---
 
-## 🧑‍💻 Getting Started
+## 📖 Usage
+1- Sign Up/Login: Create an account or log in with your credentials.
+2- Start Chatting: Select a contact or create a group to start messaging.
+3- Customize Profile: Update your profile picture and status.
 
-### Prerequisites
+## 🐛 Reporting Issues
+If you encounter any bugs or have feature requests, please open an issue.
 
-- Flutter SDK installed ([Installation Guide](https://flutter.dev/docs/get-started/install))
-- Firebase project setup ([Firebase Console](https://console.firebase.google.com))
-- Android Studio or Visual Studio Code
+## 📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## 🌟 Acknowledgments
+- Flutter
+- Firebase
+- Open Source Contributors
+
+## 📬 Contact
+For any inquiries, reach out to mohamdkelany999@gmail.com.
